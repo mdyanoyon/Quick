@@ -1,0 +1,182 @@
+/* common css Start*/
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #0D2857;
+}
+/* common css End */
+/* Header Start */
+header{
+    padding: 10px 0px;
+}
+.container{
+    margin: 0 auto;
+    width: 90%;
+    overflow: hidden;
+}
+.logo{
+    width: 10%;
+    float: left;
+}
+.logo img{
+    width: 100%;
+}
+.manu{
+    width: 60%;
+    float: right;
+}
+.manu ul{
+    float: right;
+
+}
+.manu ul li{
+    list-style: none;
+    float: left;
+
+}
+.manu ul li a{
+    margin: 0px 20px;
+    display: inline-block;
+    font-size: 18px;
+    text-decoration: none;
+    color: #0D2857;
+}
+.manu ul li:last-child a{
+    margin-right: 0px;
+}
+/* Header End */
+/* Banner Start */
+.banner{
+    padding: 50px 0px ;
+
+}
+.container2{
+    margin: 0 auto;
+    width: 60%;
+
+}
+.b_content{
+    text-align: center;
+
+}
+.b_content h1{
+    margin: 0px;
+    font-size: 50px;
+    line-height: 70px;
+
+}
+.b_content p{
+    margin: 10px 0px 20px;
+    line-height: 25px;
+
+}
+.blue{
+    color:#018CFF;
+
+}
+.b_img{
+    margin: 0 auto;
+    width: 85%;
+}
+.b_img img{
+    width: 100%;
+
+}
+/* Banner End */
+/* About Start */
+.about{
+    margin: 0 auto;
+    width: 70%;
+    overflow: hidden;
+
+}
+.div1{
+    width: 39%;
+    float: left;
+    text-align: right;
+    padding-right: 0px;
+
+}
+.div1 h1{
+    font-size: 50px;
+    color:#F15767;
+
+}
+.div1 p{
+    line-height: 25px;
+
+}
+.div2{
+    width: 57%;
+    float: right;
+    padding-left: 0px;
+
+}
+.div2 h1{
+    font-size: 50px;
+    line-height: 60px;
+}
+/* About End */
+
+/* Service Start */
+.service{
+    margin: 0 auto;
+    width: 95%;
+    overflow: hidden;
+}
+.service1{
+    margin-left: 20px;
+    padding: 25px 30px;
+    width: 31%;
+    box-sizing: border-box;
+    background-color: #FEEBED;
+    float: left;
+}
+.s_img img{
+    width: 100%;
+}
+p{
+    line-height: 25px;
+}
+.service2{
+    margin: 0 30px;
+    padding:25px 30px;
+    width: 31%;
+    box-sizing: border-box;
+    background-color: #EAF9F4;
+    float: left;
+}
+.service3{
+    padding: 25px 30px;
+    width: 31%;
+    box-sizing: border-box;
+    background-color: #FFF8E8;
+    float: left;
+}
+/* Service End */
+
+/* Footer Start */
+footer{
+    margin-top: 60px;
+    background-color: #008AFF;
+}
+.container3{
+    margin: 0 auto;
+    width: 45%;
+    padding: 20px 0;
+    text-align: center;
+}
+.container3 p{
+    color: #85D2FF;
+    font-size: 14px;
+}
+.container3 span{
+    font-size: 13px;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+/* Footer End */
